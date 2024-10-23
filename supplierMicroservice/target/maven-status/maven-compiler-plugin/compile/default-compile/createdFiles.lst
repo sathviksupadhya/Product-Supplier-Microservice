@@ -1,0 +1,6 @@
+com\SupplierService\supplierMicroservice\service\SupplierService.class
+com\SupplierService\supplierMicroservice\entity\Supplier.class
+com\SupplierService\supplierMicroservice\SupplierMicroserviceApplication.class
+com\SupplierService\supplierMicroservice\repo\SupplierRepo.class
+com\SupplierService\supplierMicroservice\dto\SupplierDto.class
+com\SupplierService\supplierMicroservice\controller\supplierController.class
